@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 
-link = "https://crudfirebase-4c3cf-default-rtdb.firebaseio.com/"
+link = "Seu Firebase aqui!"
 
 st.title("📦 Sistema de Gerenciamento de Mercado")
 
